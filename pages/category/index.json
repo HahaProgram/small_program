@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "v-search-input": "../../components/SearchInput"
+  }
+}
